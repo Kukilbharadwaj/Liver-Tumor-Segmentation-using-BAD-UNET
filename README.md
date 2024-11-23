@@ -3,7 +3,7 @@
 
 This repository contains the implementation of a **BAD-UNet** model for segmenting liver tumors, merging the functionality of BADNet and UNet architectures. The model is trained on the **3D-IRCADb-01 dataset** provided by [IRCAD](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/).
 
-By leveraging state-of-the-art data preprocessing techniques and a robust encoder-decoder architecture, this project achieves high accuracy and reliable segmentation with a **96% accuracy** and an **88 Dice coefficient**.
+By leveraging state-of-the-art data preprocessing techniques and a robust encoder-decoder architecture, this project achieves high accuracy and reliable segmentation with a **96% accuracy** and an **88% Dice coefficient**.
 
 ---
 
