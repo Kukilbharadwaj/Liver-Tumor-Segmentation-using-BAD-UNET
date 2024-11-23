@@ -60,8 +60,9 @@ The BAD-UNet model merges the best features of BADNet and UNet, forming a robust
 
 - **Training:** The model is trained using the processed dataset with a carefully designed loss function to maximize segmentation accuracy.
 - **Metrics:**
-  - **Accuracy:** 96%
-  - **Dice Coefficient:** 88
+  - **Accuracy:** 0.9660
+  - **Dice Coefficient:** 0.8817
+  - **loss** 0.0613
 
 ---
 
