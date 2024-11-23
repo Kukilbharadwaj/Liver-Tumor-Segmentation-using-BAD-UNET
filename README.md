@@ -15,9 +15,7 @@ By leveraging state-of-the-art data preprocessing techniques and a robust encode
 - [Model Architecture](#model-architecture)
 - [Training and Evaluation](#training-and-evaluation)
 - [Results](#results)
-- [Installation and Usage](#installation-and-usage)
-- [Future Work](#future-work)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
